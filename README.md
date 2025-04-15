@@ -1,6 +1,8 @@
 ## League of Legends Winner Prediction (First 10 Minutes)
 
-This project predicts the winner of a League of Legends match based on gameplay data from the first 10 minutes. Using machine learning models (Logistic Regression, Random Forest, and Gradient Boosting) implemented with PySpark, we analyze key in-game metrics to forecast match outcomes.
+Developed as part of the Big Data course at Lodz University of Technology.
+
+The roject predicts the winner of a League of Legends match based on gameplay data from the first 10 minutes. Using machine learning models (Logistic Regression, Random Forest and Gradient Boosting) implemented with PySpark we analyze key in-game metrics to forecast match outcomes.
 
 ## Key Features
 - Processes 10,000+ high-rank matches (Diamond to Master tier)
@@ -17,5 +19,3 @@ Dataset from Kaggle containing ranked matches collected via Riot Games API, feat
 - Scikit-learn
 - Pandas
 - Jupyter Notebook
-
-Developed as part of the Big Data course at Lodz University of Technology.
